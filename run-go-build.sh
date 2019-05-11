@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-exec go build
+cd ./src && exec go build
